@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	fmt.Println(Kali(2,3));
+	fmt.Println(kali.Kali(2,3));
 }
