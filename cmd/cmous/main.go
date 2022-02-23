@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt";
-     "./catmouse";
+     "github.com/pelatge/catmouse";
 )
 
 func main(){
-	fmt.Println(kali(2,3));
+	fmt.Println(Kali(2,3));
 }
