@@ -1,5 +1,5 @@
 package kali
 
-fun (a,b int)int{
+fun Kali(a,b int)int{
     return a*b;
 }
